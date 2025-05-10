@@ -5,7 +5,7 @@ This Software Requirements Analysis (SRA) document outlines the functional and n
 ## What is Requirement Analysis?
 This is a phase in software development lifecycle (SDLC) where project team gathers, analyzes and defines the requirements of a software product being developed ensuring all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
-## Importance of Requirement Analysis in Software Development Lifecycle (SDLC)
+## Why is Requirement Analysis Important?
 Requirement analysis is a crucial phase in the SDLC that lays the foundation for a successful software project. It ensures that all stakeholders have a clear understanding of what needs to be built.
 
 - **Clarity and Understanding**  
@@ -22,3 +22,4 @@ Requirement analysis is a crucial phase in the SDLC that lays the foundation for
 
 - **Quality Assurance**  
   Defines measurable requirements that guide testing and validation to ensure product quality.
+
