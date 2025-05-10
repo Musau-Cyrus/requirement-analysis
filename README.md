@@ -1,1 +1,3 @@
-# requirement-analysis
+# Requirement Analysis in Software Development
+##Introduction
+This Software Requirements Analysis (SRA) document outlines the functional and non-functional requirements for the development of an AirBnB Online Booking System. The system is intended to allow users to search, view, and reserve services through a web-based interface. It aims to streamline the booking process, enhance user experience, and improve service provider efficiency. The document serves as a foundation for system design, development, and validation, ensuring all stakeholders have a shared understanding of the system’s scope and capabilities.
