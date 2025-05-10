@@ -86,8 +86,47 @@ Requirement analysis involves several structured activities to ensure a clear un
 ## Use Case Diagrams
 Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
 **Benefits of use case diagrams**
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+  
+**A use case Diagram**
+![Description](https://drive.google.com/uc?export=view&id=1f8KNWXcutZHTzp3aROwxSCWxS8VhVUEO)
+
+## Acceptance Criteria
+**Importance of Acceptance Criteria**
 - Ensure all parties have a clear understanding of feature requirements.
 - Provide a basis for testing and validation.
 - Help in maintaining quality and meeting user expectations.
-**A use case Diagram**
-![Description](https://drive.google.com/uc?export=view&id=1f8KNWXcutZHTzp3aROwxSCWxS8VhVUEO)
+
+  ### ✔️ Acceptance Criteria
+
+#### 1. Successful Checkout
+- **Given** that the user has selected at least one booking,  
+- **When** they click the “Checkout” button,  
+- **Then** the system should validate all required fields and complete the payment process.
+
+#### 2. Payment Gateway Integration
+- **Given** a valid payment method is selected,  
+- **When** the payment is processed,  
+- **Then** the system should receive a success confirmation from the payment gateway.
+
+#### 3. Booking Confirmation
+- **Given** the payment is successful,  
+- **When** the transaction completes,  
+- **Then** the system should update the booking status to “Confirmed” and generate a booking reference.
+
+#### 4. Email Notification
+- **Given** the checkout is successful,  
+- **Then** the user should receive a confirmation email with the booking summary and receipt.
+
+#### 5. Validation of Required Information
+- **If** any required fields (e.g., user info, payment method) are missing,  
+- **Then** the checkout process should not proceed and should display an appropriate error message.
+
+#### 6. Failed Payment Handling
+- **Given** the payment fails,  
+- **Then** the system should not confirm the booking and must display a clear failure message with a retry option.
+
+#### 7. Security
+- All payment details must be transmitted securely using **HTTPS** and must comply with **PCI DSS standards**.
