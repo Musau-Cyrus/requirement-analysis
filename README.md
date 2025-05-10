@@ -1,5 +1,5 @@
 # Requirement Analysis in Software Development
-##Introduction
+## Introduction
 This Software Requirements Analysis (SRA) document outlines the functional and non-functional requirements for the development of an AirBnB Online Booking System. The system is intended to allow users to search, view, and reserve services through a web-based interface. It aims to streamline the booking process, enhance user experience, and improve service provider efficiency. The document serves as a foundation for system design, development, and validation, ensuring all stakeholders have a shared understanding of the system’s scope and capabilities.
 
 ## What is Requirement Analysis?
@@ -23,3 +23,38 @@ Requirement analysis is a crucial phase in the SDLC that lays the foundation for
 - **Quality Assurance**  
   Defines measurable requirements that guide testing and validation to ensure product quality.
 
+## Key Activities in Requirement Analysis
+
+Requirement analysis involves several structured activities to ensure a clear understanding and documentation of what the software must accomplish.
+
+### 1. **Requirement Gathering**
+
+- **Interviews**: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.  
+- **Surveys/Questionnaires**: Distributing surveys to collect requirements from a broader audience.  
+- **Workshops**: Organizing collaborative sessions with stakeholders to discuss and capture requirements.  
+- **Observation**: Observing end-users in their work environment to understand real needs and workflows.  
+- **Document Analysis**: Reviewing existing documents and systems to understand current functionalities.
+
+### 2. **Requirement Elicitation**
+
+- **Brainstorming**: Generating ideas and uncovering needs in open group discussions.  
+- **Focus Groups**: Engaging selected stakeholders in focused discussions to gain detailed insights.  
+- **Prototyping**: Developing early system models or UI mockups to help stakeholders visualize features.
+
+### 3. **Requirement Documentation**
+
+- **Requirement Specification Document**: A comprehensive document listing all functional and non-functional requirements.  
+- **User Stories**: Descriptions of features from the user’s point of view to ensure user-centric design.  
+- **Use Cases**: Diagrams and narratives illustrating interactions between users and the system.
+
+### 4. **Requirement Analysis and Modeling**
+
+- **Requirement Prioritization**: Ranking requirements by importance and business value.  
+- **Feasibility Analysis**: Evaluating technical, financial, and schedule-related constraints.  
+- **Modeling**: Using visual tools (e.g., data flow diagrams, ER diagrams) to represent system behavior and data.
+
+### 5. **Requirement Validation**
+
+- **Review and Approval**: Ensuring that requirements are correct, complete, and agreed upon by stakeholders.  
+- **Acceptance Criteria**: Defining specific conditions that a requirement must meet to be accepted.  
+- **Traceability**: Linking each requirement to corresponding design, development, and testing components to ensure full coverage.
