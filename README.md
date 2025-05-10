@@ -83,3 +83,11 @@ Requirement analysis involves several structured activities to ensure a clear un
 - **Usability:** The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - **Reliability:** The system should have an uptime of 99.9% and recover quickly from any failures.
    
+## Use Case Diagrams
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+**Benefits of use case diagrams**
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+**A use case Diagram**
+![Description](https://drive.google.com/uc?export=view&id=1f8KNWXcutZHTzp3aROwxSCWxS8VhVUEO)
