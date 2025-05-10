@@ -59,7 +59,7 @@ Requirement analysis involves several structured activities to ensure a clear un
 - **Acceptance Criteria**: Defining specific conditions that a requirement must meet to be accepted.  
 - **Traceability**: Linking each requirement to corresponding design, development, and testing components to ensure full coverage.
 
-## Types of Requiremnts
+## Types of Requirements
 1. **Functional Requirements**
 **Definition:** Describe what the system should do.
 **Examples:** User authentication, property search, booking system, user registration.
